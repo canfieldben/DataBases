@@ -10,7 +10,7 @@ root.geometry('400x400')
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="cabinVT!1",
+    passwd="******",
     database="saltyGraphing"
 )
 
